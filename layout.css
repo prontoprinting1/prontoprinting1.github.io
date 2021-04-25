@@ -40,13 +40,15 @@ li a.active {
   margin-right: 10px;
   height: 20px;
   width: auto;
-  float: left;
+  float: left
 }
 
 
 .img-head-open{
-width: auto;
+  width: 80%;
 }
+
+
 
 .open-head-img{
 text-align: center;
@@ -392,6 +394,7 @@ text-decoration: none;
 .topnav {
   overflow: hidden;
   background-color: black;
+  width: auto;
 }
 
 .topnav a {
@@ -406,11 +409,10 @@ text-decoration: none;
 
 .topnav a:hover {
   background-color: red;
-  color: black;
+  color: white;
 }
 
 .topnav a.active {
-
   color: white;
 }
 
@@ -441,19 +443,10 @@ text-decoration: none;
     display: block;
     text-align: left;
     color: white;
+
   }
 }
 
-
-
-.sep-bar{
-  border-left: 20px solid blue;
-  background-color: blue;
-  height: 5%;
-  width: 98.5%;
-  margin-top: 10%;
-  margin-bottom: 2.5%;
-}
 
 
 
